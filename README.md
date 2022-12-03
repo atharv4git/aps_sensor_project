@@ -3,12 +3,10 @@
 * python
 * mongodb
 
+### The training pipileine
+Training pipelines let you perform custom machine learning (ML) training and automatically create a Model resource based on your training output.
+![](data_ingestion.png)
 ### Run it yourself:
-1. install requirements
 ```
-pip install -r requirements.txt
-```
-2. Run main.py file
-```
-python main.py
+python setup.py
 ```
