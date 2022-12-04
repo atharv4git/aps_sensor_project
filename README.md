@@ -39,7 +39,7 @@ A Pusher component consumes a trained model in SavedModel format, and produces t
 > ML pipilenes can be made totally by scratch or some available services/softwares can be used such as:
 >* [TFX](https://www.tensorflow.org/tfx)
 >* [Apache Spark ML](https://spark.apache.org/docs/1.6.1/ml-guide.html)
->* [Amazon Sagemakes Pipelines](https://aws.amazon.com/sagemaker/pipelines/?tag=mochaglobal20-20)
+>* [Amazon Sagemaker Pipelines](https://aws.amazon.com/sagemaker/pipelines/?tag=mochaglobal20-20)
 >* [Azure ML Pipelines](https://learn.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 
 ### Run it yourself:
