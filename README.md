@@ -47,6 +47,11 @@ A Pusher component consumes a trained model in SavedModel format, and produces t
 >* [Amazon Sagemaker Pipelines](https://aws.amazon.com/sagemaker/pipelines/?tag=mochaglobal20-20)
 >* [Azure ML Pipelines](https://learn.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 
+### ML Component:
+every stage of the ML pipeline is called a component.
+
 ### Artifact:
 An artifact is a machine learning term that is used to describe the output created by the training process. Output could be a fully trained model, a model checkpoint, or a file created during the training process. AI Artifacts describe all digital products that are used in an AI Tool. They can be the input, the output, or an intermediate result that is processed by tools. We mainly specify six types of artifacts(corresponding to the steps in the pipeline): Data, Knowledge, Model, Application, Algorithm, and Benchmark.
 
+### ML Entity:
+An ML entity is an entity type that is based on a training utterances, similar to the way intents are. For ML entities, these utterances are annotated to show where entity values appear in the utterance.
