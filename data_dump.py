@@ -2,7 +2,7 @@ import pymongo
 import pandas as pd
 import json
 
-client = pymongo.MongoClient("mongodb://localhost:27017/admin")
+client = pymongo.MongoClient("mongodb://localhost:27017/neurolabDB")
 
 DATA_FILE_PATH = "aps_failure_training_set_new.txt"
 DATABASE_NAME = "aps"
